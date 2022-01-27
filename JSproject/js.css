@@ -1,0 +1,28 @@
+#map { 
+    display: flex;
+    margin-top: 5em;
+    margin-left: 20em;
+    margin-right: 20em;
+    height: 550px;
+    border: solid 5px rgb(75, 73, 73);
+}
+
+.leaflet-popup-content-wrapper {
+    width: 100%;
+}
+
+#business {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#submit {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: gray;
+}
